@@ -4,7 +4,3 @@
 ## Demo:
 
 ![Demo](./Demo.gif)
-
-
-
-
